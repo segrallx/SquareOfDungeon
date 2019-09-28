@@ -1,0 +1,12 @@
+﻿{
+    "name": "Tests",
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "references": [
+        "SquareDungeonAssembly"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+   "name": "SquareDungeonAssembly",
+    "references": [
+        "FracturingAssembly",
+        "CsvHelper",
+        "Unity.ugui"
+    ]
+
+}

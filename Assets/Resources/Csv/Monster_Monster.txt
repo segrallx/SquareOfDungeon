@@ -1,0 +1,3 @@
+Id,Name,Speed,Hp,Atk,Def,Exp,Coin
+1,slime,2,30,20,30,30,1
+2,slime.remote,2,20,20,20,30,2

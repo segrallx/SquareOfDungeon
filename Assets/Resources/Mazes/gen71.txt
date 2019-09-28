@@ -1,0 +1,11 @@
+{
+    "SizeX": 41,
+    "SizeY": 41,
+    "RoomSize": 5,
+    "RoomExtraSize": 7,
+    "RoomGenTries": 300,
+    "RoomDoorCnt": 3,
+    "Tiles": [],
+    "Items": [],
+    "Monsters": []
+}

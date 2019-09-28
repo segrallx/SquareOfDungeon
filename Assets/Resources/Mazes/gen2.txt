@@ -1,0 +1,27 @@
+{
+    "SizeX": 13,
+    "SizeY": 9,
+    "RoomSize": 5,
+    "RoomExtraSize": 7,
+    "RoomGenTries": 0,
+    "RoomDoorCnt": 3,
+    "Tiles": [
+        {
+            "Cls": 6,
+            "Id": 1,
+            "Cnt": 6
+        },
+        {
+            "Cls": 9,
+            "Id": 1,
+            "Cnt": 2
+        }
+    ],
+    "Monsters": [
+        {
+            "Id": 1,
+            "Cnt": 2
+        }
+    ],
+    "Items": []
+}
